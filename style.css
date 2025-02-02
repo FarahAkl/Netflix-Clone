@@ -328,6 +328,9 @@ img {
       }
     }
   }
+  #tab-3-content {
+    overflow-x: auto;
+  }
   .footer {
     .footer-cols {
       grid-template-columns: repeat(2, 1fr);
